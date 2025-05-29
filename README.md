@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### Tech Debt Removal Summary 📊
+```
+Summary:
+Total Toggles Removed: 18
+Total Lines of Tech Debt Removed (Deletions): 3487
+```
