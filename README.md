@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### Tech Debt Removal Summary 📊
-```
-Summary:
+```:
 Total Toggles Removed: 18
 Total Lines of Tech Debt Removed (Deletions): 3487
 ```
